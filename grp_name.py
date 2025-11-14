@@ -1,0 +1,1 @@
+print("zafor, meghla, imrul, muntaha")
