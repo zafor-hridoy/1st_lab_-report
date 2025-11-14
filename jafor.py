@@ -1,0 +1,1 @@
+print("amar name zafor ahmed")
